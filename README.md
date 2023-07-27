@@ -1,5 +1,5 @@
 # Customer-Lifetime-Value
-Customer lifetime value analysis using [lifetimes] (https://lifetimes.readthedocs.io/en/latest/#) package in python. 
+Customer lifetime value analysis using [lifetimes](https://lifetimes.readthedocs.io/en/latest/#) package in python. 
 Using Beta Geometric Negative Binomial Distribution and Gamma-Gamma methods to predict repeat purchases and lifetime value
 
 Lifetimes can be used to analyze your users based on a few assumption:
