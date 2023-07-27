@@ -15,3 +15,5 @@ Applications:
 3. Predicting individuals who have churned from an app using only their usage history. (Alive = logins. Die = removed the app)
 4. Predicting repeat purchases from a customer. (Alive = actively purchasing. Die = became disinterested with your product)
 5. Predicting the lifetime value of your customers
+
+Further applications and reseach can be found in this [Insead](https://sites.insead.edu/facultyresearch/research/doc.cfm?did=51835) pulished paper.
